@@ -11,19 +11,19 @@ Can be integrated with scripting tools too!
 ## Screenshots
 
 Program with no arguments<br>
-![Program with no arguments](https://github.com/0x4F776C/Automation/blob/main/Chocolatey4Free/screenshots/noargs.PNG)
+![Program with no arguments](https://github.com/0x4F776C/Chocolatey4Free/blob/main/screenshots/noargs.PNG)
 
 Program with arguments<br>
-![Program with arguments](https://github.com/0x4F776C/Automation/blob/main/Chocolatey4Free/screenshots/withargs.PNG)
+![Program with arguments](https://github.com/0x4F776C/Chocolatey4Free/blob/main/screenshots/withargs.PNG)
 
 List directories<br>
-![List directories](https://github.com/0x4F776C/Automation/blob/main/Chocolatey4Free/screenshots/directorylisting.PNG)
+![List directories](https://github.com/0x4F776C/Chocolatey4Free/blob/main/screenshots/directorylisting.PNG)
 
 Chocolatey pack<br>
-![Chocolatey pack](https://github.com/0x4F776C/Automation/blob/main/Chocolatey4Free/screenshots/packed.PNG)
+![Chocolatey pack](https://github.com/0x4F776C/Chocolatey4Free/blob/main/screenshots/packed.PNG)
 
 Chocolatey install<br>
-![Chocolatey install](https://github.com/0x4F776C/Automation/blob/main/Chocolatey4Free/screenshots/cinst.PNG)
+![Chocolatey install](https://github.com/0x4F776C/Chocolatey4Free/blob/main/screenshots/cinst.PNG)
 
 
 ### References
