@@ -21,6 +21,5 @@ Chocolatey pack<br>
 Chocolatey install<br>
 ![Chocolatey install](https://github.com/0x4F776C/Chocolatey4Free/blob/main/screenshots/cinst.PNG)
 
-
 ### References
 [Step-by-step guide to setup Chocolatey (inclusive of Linux CIFS server)](https://github.com/0x4F776C/Setup-Guides/blob/main/Chocolatey/Chocolatey-PackageCreation.md)
