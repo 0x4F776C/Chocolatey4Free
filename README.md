@@ -1,6 +1,8 @@
 # Chocolatey4Free
 Simple alternative to C4B (Chocolatey4Business). Current program only supports the creation of EXE packages<br>
 
+<!-- display-subdirectories: false -->
+
 ## Purpose
 The purpose of this program is to remove comments and redundant data in chocolatey templates and streamline localised packaging process.<br>
 Can be integrated with scripting tools too!
